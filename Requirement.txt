@@ -1,0 +1,9 @@
+Dependencies related to databases and programs and authentication that need to be installed manually are as follows:
+
+pip install Pyrebase4
+pip install firebase_admin
+pip install mediapipe
+pip install opencv-python
+pip install os-sys
+pip install PyQt5
+pip install matplotlib
