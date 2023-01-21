@@ -7,3 +7,9 @@ The login page is designed using the Qt Designer app, which consists of buttons 
 
 ![Computer Vision Python GUI Project](https://github.com/wiryanatasunardi/Computer-Vision-Python-GUI-Project/blob/main/Documentation/login.jpg)
 ![Computer Vision Python GUI Project](https://github.com/wiryanatasunardi/Computer-Vision-Python-GUI-Project/blob/main/Documentation/signup.jpg)
+
+## Home Page
+The main page or the home page is themed modern GUI where there are so many features inside such as a profile section, notification, sign out, the application detail, and the main features such as supermarket analyzer that is used to track supermarket-activity based on body detection and hand gesture recognition that is used to translate hand gesture to establish a complete sentence.
+
+![Computer Vision Python GUI Project](https://github.com/wiryanatasunardi/Computer-Vision-Python-GUI-Project/blob/main/Documentation/home_profile.jpg)
+![Computer Vision Python GUI Project](https://github.com/wiryanatasunardi/Computer-Vision-Python-GUI-Project/blob/main/Documentation/home.jpg)
