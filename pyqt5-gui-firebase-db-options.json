@@ -1,0 +1,6 @@
+{
+    "databaseURL": "https://pyqt5-gui-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "databaseAuthVariableOverride": {
+        "uid": "cv-database"
+    }
+}

@@ -1,0 +1,20 @@
+"""Template"""
+welcome_message = "Welcome, {}.\nPlease select \"Sign Language\" or \"Shop Analyzer\" to start."
+conf_msg = "User {} has been created successfully!"
+profile_msg = "Signed in as: {}"
+usage_msg = "No. of usage before: {} time(s)"
+log_failed = "Logging to database failed."
+
+hand_welcome = "To use, please press \"Start\" first, and then choose \"Start Training\" or \"Start Recognize\"."
+hand_prompt_start = "Make sure your fingers can be detected by the cam."
+hand_prompt_stop = "NO FEED"
+cam_start = "Cam started."
+cam_close = "Cam closed."
+
+activity_welcome = "To use, please press \"Start\". The result will be in the graph above."
+activity_start = "Shop analyzer started on {}."
+activity_end = "Shop analyzer ended on {}."
+
+"""Style"""
+button_selected = "background-color: rgb(168, 218, 220);"
+button_deselected = ""
