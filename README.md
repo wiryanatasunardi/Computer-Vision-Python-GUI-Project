@@ -13,3 +13,5 @@ The main page or the home page is themed modern GUI where there are so many feat
 
 ![Computer Vision Python GUI Project](https://github.com/wiryanatasunardi/Computer-Vision-Python-GUI-Project/blob/main/Documentation/home_profile.jpg)
 ![Computer Vision Python GUI Project](https://github.com/wiryanatasunardi/Computer-Vision-Python-GUI-Project/blob/main/Documentation/home.jpg)
+
+## Supermarket Analyzer
