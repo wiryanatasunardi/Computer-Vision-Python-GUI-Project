@@ -15,3 +15,7 @@ The main page or the home page is themed modern GUI where there are so many feat
 ![Computer Vision Python GUI Project](https://github.com/wiryanatasunardi/Computer-Vision-Python-GUI-Project/blob/main/Documentation/home.jpg)
 
 ## Supermarket Analyzer
+Supermarket Analyzer analyzes supermarket activity based on body detection using the Mediapipe library. Using computer vision to analyze supermarket activity, it can receive various inputs such as the amount of activity in a certain period and the average duration the action occurs in a specific aisle in a supermarket. After the analyzer's window has been closed, the GUI will generate the activity's statistic graph using the Matplotlib library.
+
+![Computer Vision Python GUI Project](https://github.com/wiryanatasunardi/Computer-Vision-Python-GUI-Project/blob/main/Documentation/supermarket.jpg)
+![Computer Vision Python GUI Project](https://github.com/wiryanatasunardi/Computer-Vision-Python-GUI-Project/blob/main/Documentation/supermarket%20graph.jpg)
