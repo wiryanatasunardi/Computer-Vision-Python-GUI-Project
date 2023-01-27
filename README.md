@@ -33,3 +33,4 @@ Hand Gesture Recognition is my computer vision project using the Mediapipe libra
 
 ## Authors
 -  LinkedIn  - [Wiryanata Sunardi](https://www.github.com/wiryanatasunardi)
+-  Instagram - [wiryanatasunardi](https://www.instagram.com/wiryanatasunardi/)
