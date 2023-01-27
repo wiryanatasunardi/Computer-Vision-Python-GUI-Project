@@ -19,3 +19,9 @@ Supermarket Analyzer analyzes supermarket activity based on body detection using
 
 ![Computer Vision Python GUI Project](https://github.com/wiryanatasunardi/Computer-Vision-Python-GUI-Project/blob/main/Documentation/supermarket.jpg)
 ![Computer Vision Python GUI Project](https://github.com/wiryanatasunardi/Computer-Vision-Python-GUI-Project/blob/main/Documentation/supermarket%20graph.jpg)
+
+## Hand Gesture Recognition
+Hand Gesture Recognition is my computer vision project using the Mediapipe library that can analyze and recognize hand gestures based on the user hand landmark model. The ability to perceive the shape and motion of hands can be a vital component in improving the user experience across various technological domains and platforms. MediaPipe Hands is a high-fidelity hand and finger tracking solution. It employs machine learning (ML) to infer 21 3D landmarks of a hand from just a single frame. Integrating the Hand Gesture Recognition project with Python GUI will make the task easier to use since the Hand Gesture Recognition needs to train the model before the model can be used for recognizing hand gestures. The hand gestures model that has been prepared will be saved in the user's local drive in a pickle file and can be opened whenever the user wants to use the recognition feature.
+
+![Computer Vision Python GUI Project](https://github.com/wiryanatasunardi/Computer-Vision-Python-GUI-Project/blob/main/Documentation/hand_train.jpg)
+![Computer Vision Python GUI Project](https://github.com/wiryanatasunardi/Computer-Vision-Python-GUI-Project/blob/main/Documentation/hand_recog.jpg)
