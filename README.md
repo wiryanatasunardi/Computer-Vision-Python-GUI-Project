@@ -25,3 +25,11 @@ Hand Gesture Recognition is my computer vision project using the Mediapipe libra
 
 ![Computer Vision Python GUI Project](https://github.com/wiryanatasunardi/Computer-Vision-Python-GUI-Project/blob/main/Documentation/hand_train.jpg)
 ![Computer Vision Python GUI Project](https://github.com/wiryanatasunardi/Computer-Vision-Python-GUI-Project/blob/main/Documentation/hand_recog.jpg)
+
+## Acknowledgement
+- [Mediapipe for Hand Detection and Pose Estimation](https://www.youtube.com/watch?v=xHK-wv2JG18&list=PLGs0VKk2DiYyXlbJVaE8y1qr24YldYNDm&index=32)
+- [Mediapipe Hands](https://google.github.io/mediapipe/solutions/hands.html)
+- [Mediapipe Library](https://google.github.io/mediapipe/)
+
+## Authors
+-  LinkedIn  - [Wiryanata Sunardi](https://www.github.com/wiryanatasunardi)
